@@ -1,0 +1,18 @@
+# 编译产物
+__pycache__/
+*.py[cod]
+*.spec
+
+# PyInstaller
+build/
+dist/
+
+# 运行时产出（exe 同级的工作目录）
+WxapkgToolData/
+wxpack/
+
+# 本地临时区
+_trash/
+
+# 反编译内核：单文件 37MB，不入库，用 fetch_engine.py 拉取
+app/tools/KillWxapkg.exe
