@@ -1,0 +1,5 @@
+8ab0ef9dc90c79775e67498bed6c86ae  KillWxapkg_2.4.1_darwin_amd64
+5a1fbed7da167a2d5ac3d01c6c69f7ee  KillWxapkg_2.4.1_darwin_arm64
+f95a04c84ff7227a73eb16037e8919ad  KillWxapkg_2.4.1_windows_386.exe
+5593a83f60f742bfb27c4fef756dfae7  KillWxapkg_2.4.1_windows_amd64.exe
+7b58facb469b60bbd47631d377d94201  KillWxapkg_2.4.1_windows_arm64.exe
